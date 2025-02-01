@@ -1,6 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatdidyouexpect&icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+## hi!!
+silly little italian idiot that likes portal 2 and coding
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatdidyouexpect&hide_progress=true&icons=true&theme=tokyonight)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatdidyouexpect&icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **WhatDidYouExpect/WhatDidYouExpect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
