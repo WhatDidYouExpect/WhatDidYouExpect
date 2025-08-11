@@ -1,5 +1,6 @@
 ## hi!!
 silly little italian idiot that likes portal 2 and coding
+<br>
 [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/expect69420/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatdidyouexpect&hide_progress=true&icons=true&theme=tokyonight)
